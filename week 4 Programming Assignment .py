@@ -37,6 +37,6 @@ To run this code, save the code in a file named "investigator_toolkit.py" and al
 "threat_2.txt": A file containing a list of threat IP addresses, one per line.
 "threat_3.txt": A file containing a list of threat IP addresses, one per line.
 
-Then, open a terminal or command prompt in the directory where the files are saved and run the following command: *python investigator_toolkit.py*
+Then, open a terminal or command prompt in the directory where the files are saved and run the following command: *** python investigator_toolkit.py ***
 
 The output will be displayed in the terminal or command prompt.
