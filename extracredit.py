@@ -13,5 +13,21 @@ with open(filename, 'w') as f:
 
     
     
-To run this program, save it in a file named main.py and run the following command in the terminal: python3 main.py file.txt "hello there!"
-This will create a file named file.txt in the same directory as main.py and write the text "hello there!" to it.
+To run this Python code:
+
+Open a text editor (Notepad or Visual Studio Code) and paste the code into a new file.
+
+Save the file with a .py extension, such as "main.py".
+
+Open a command prompt or terminal window.
+
+Navigate to the directory where you saved the "main.py" file.
+
+Type the following command:
+
+python3 main.py file.txt "extra credit"
+(Replace "file.txt" with the filename you want to write to, and "extra credit" with the text you want to write.)
+
+Press Enter to run the command.
+
+The program should create a new file named "file.txt" in the same directory as the "main.py" file, and write the text "extra credit" to that file.
